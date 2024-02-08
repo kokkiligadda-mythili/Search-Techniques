@@ -1,4 +1,3 @@
-# Search-Techniques
 Binary Search
 It is a fundamental algorithm used to efficiently locate a target value within a sorted array. It follows a divide-and-conquer approach, reducing the search space by half in each iteration.
 1 :-  Initialization:
